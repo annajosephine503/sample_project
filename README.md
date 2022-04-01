@@ -1,3 +1,3 @@
 # sample_project
 My Java programs 
-MY Velocity trainijg started yestreday 
+MY Velocity training started yesterday 
